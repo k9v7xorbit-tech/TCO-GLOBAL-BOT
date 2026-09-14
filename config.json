@@ -1,1 +1,8 @@
-
+{
+  "guildId": "TON_SERVER_ID",
+  "builderRoleId": "1546611947334533331",
+  "masterBuilderRoleId": "1546611852916695222",
+  "buildCompetitionsChannelId": "1546955023907291146",
+  "buildShowcaseChannelId": "1546954979313713262",
+  "announcementsChannelId": "1546954076888240128"
+}
